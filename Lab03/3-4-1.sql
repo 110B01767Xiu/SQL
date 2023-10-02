@@ -1,2 +1,2 @@
 insert into Employee
-values ('S0006', '¤»¦X', 'D003')
+values ('S0006', 'å…­åˆ', 'D003')
