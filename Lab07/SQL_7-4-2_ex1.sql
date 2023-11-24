@@ -1,3 +1,3 @@
 update Employee
-set Em_dep = '¥Í²£³¡'
-where Em_name = '¤»¦X'
+set Em_dep = 'ç”Ÿç”¢éƒ¨'
+where Em_name = 'å…­åˆ'
