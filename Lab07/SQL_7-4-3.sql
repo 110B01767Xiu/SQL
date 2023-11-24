@@ -1,3 +1,3 @@
 delete
 from Employee_old
-where Em_name = '¤Q¥ş'
+where Em_name = 'åå…¨'
