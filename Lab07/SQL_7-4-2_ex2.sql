@@ -1,3 +1,3 @@
 update Employee
-set Em_dep = '¾P°â³¡', Em_name = '§õ¦w'
+set Em_dep = 'éŠ·å”®éƒ¨', Em_name = 'æå®‰'
 where Em_id = 'S0010'
