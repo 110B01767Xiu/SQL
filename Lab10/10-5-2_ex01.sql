@@ -1,8 +1,8 @@
 use ch10DB
 go
-create view «e¤T¦W¦¨ÁZ³æ as
+create view å‰ä¸‰åæˆç¸¾å–® as
 select TOP 3 stu_name, C_name, Grade
 from Student as A, Course as B, Class as C
-where A.stu_id = B.¾Ç¸¹
-and C.C_id = B.½Ò¸¹
+where A.stu_id = B.å­¸è™Ÿ
+and C.C_id = B.èª²è™Ÿ
 and C.C_id = 'C005' order by Grade desc
