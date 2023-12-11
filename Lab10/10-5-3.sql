@@ -1,6 +1,6 @@
 use ch10DB
 go
-create view ¾Ç¥Í¦¨ÁZ¥[Á`(stu_id, Sum_Grade)
+create view å­¸ç”Ÿæˆç¸¾åŠ ç¸½(stu_id, Sum_Grade)
 as
 select stu_id, sum(Grade)
 from Course_select
